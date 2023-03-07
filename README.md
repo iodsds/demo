@@ -1,4 +1,4 @@
-# hi2
+# demo
 
 ## Project setup
 ```
