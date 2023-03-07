@@ -22,6 +22,13 @@ export default {
 		};
 	},
 	mounted() {
+		// 检测浏览器窗口大小变化 用于地图自适应
+		// const _this = this;
+		// this.$erd['listenTo'](_this.$refs.map, () => {
+		// 	_this.$nextTick(() => {
+		// 		this.map.updateSize()
+		// 	});
+		// });
 	},
 	beforeDestroy() {},
 	destroyed() {},
